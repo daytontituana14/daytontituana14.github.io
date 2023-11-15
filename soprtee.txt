@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>
+</title>
+</head>
+<body bgcolor="orange">
+<p><center><FONT COLOR="RED" size="20"> SOPORTE TECNICO </p></center></FONT COLOR="RED" size="20">
+<P><LEFT><FONT COLOR="RED"size="20" >EVOLUCION DE LOS ORDENADORES:</P></LEFT></FONT COLOR="RED"size="20">
+
+<P>Los ordenadores han ido evolucionando desde su creación, pasando por diversas generaciones, desde 1940 hasta la actualidad, la historia de las computadoras ha pasado por muchas generaciones y la sexta, la más reciente, viene integrada con microprocesadores como los Intel Core o AMD Ryzen.</P>
+
+<P><center><FONT COLOR="RED" size="20">HISTORIA</P></center></color></FONT COLOR="RED" size="20">
+
+<p><center><img src="34.jpeg" width="%25"></center>
+El Electronic Numerical Integrator and Computer, mejor conocido como ENIAC, se ha considerado a menudo la primera computadora de propósito general, aunque este título pertenece en realidad a la computadora alemana Z3. Era totalmente digital, es decir, ejecutaba sus procesos y operaciones mediante instrucciones en lenguaje máquina, a diferencia de otras máquinas contemporáneas de procesos analógicos. Presentada al público el 15 de febrero de 1946, John W. Mauchly y John Presper Eckert de la Universidad de Pensilvania (EE. UU.) iniciaron su desarrollo en 1943. Esta enorme máquina medía más de 30 metros de largo y pesaba 32 toneladas, estaba compuesta por 17 468 válvulas. El calor de las válvulas elevaba la temperatura de la sala donde se hallaba instalada hasta los 50 °C. y para que llevase a cabo las operaciones para las que se había diseñado. Cuando la ENIAC se terminó en 1946, la II Guerra Mundial ya había terminado. El fin de la contienda hizo que los esfuerzos hasta entonces dedicados principalmente a objetivos militares, se destinaran también a otro tipo de investigación científica más relacionada con las necesidades de la empresa privada. Los esfuerzos múltiples dieron resultados en 1945 Mauchly y Eckert comenzaron a trabajar en una sucesora de la ENIAC, el EDVAC (Electronic Discrete Variable Automatic Computer) y Aiken inició el diseño de la Mark II. En 1951, el que está considerado como la primera computadora que se llamó Saly fue ampliamente comercializada, la UNIVAC I, comenzó a funcionar con éxito. En 1952 la computadora UNIVAC se utilizó para realizar el recuento de votos en las elecciones presidenciales de EE. UU. El resultado victoria (EIsenhower sobre Adlai Stevenson) se conoció 50 minutos después de que se cerraran los colegios electorales
+Estaban construidas con electrónica de válvulas de vacío. Se programaban en lenguaje de la máquina. Un programa es un conjunto de instrucciones para que la máquina efectúe alguna tarea, y el lenguaje más simple en el que puede especificarse un programa se llama lenguaje de máquina (porque el programa debe escribirse mediante algún conjunto de códigos binarios). La primera generación de computadoras y sus antecesores, se describen en la siguiente lista de los principales modelos de que constó:
+
+1946 ENIAC. Considerada a menudo como la primera computadora digital electrónica en la historia. No fue un modelo de producción, sino una máquina experimental. Tampoco era programable en el sentido actual. Se trataba de un enorme aparato que ocupaba todo un sótano en la universidad. Construida con 18 000 tubos de vacío, consumía varios kW de potencia eléctrica y pesaba 27 toneladas. Era capaz de efectuar cinco mil sumas por segundo. Fue hecha por un equipo de ingenieros y científicos encabezados por los doctores John W. Mauchly y J. Presper Eckert1​ en la universidad de Pensilvania, en los Estados Unidos.
+
+1949 EDVAC. Segunda computadora programable. También fue un prototipo de laboratorio, pero ya incluía en su diseño las ideas centrales que conforman las computadoras actuales.
+
+1951 UNIVAC I. Primera computadora comercial. Los doctores Mauchly y Eckert fundaron la compañía Universal Computer (Univac), y su primer producto fue esta máquina. El primer cliente fue la Oficina del Censo de Estados Unidos.
+
+1953 IBM 701. Para introducir los datos, estos equipos empleaban tarjetas perforadas, que habían sido inventadas en los años de la revolución industrial (finales del siglo XVIII) por el francés Joseph Marie Jacquard y perfeccionadas por el estadounidense Herman Hollerith en 1890. La IBM 701 fue la primera de una larga serie de computadoras de esta compañía, que luego se convertiría en la número uno, por su volumen de ventas.</P>
+
+<td><center> <img src="12.jpeg" width="%25"></center>
+
+
+
+<p><FONT COLOR="RED" size="20"> COMPONENTES DE UNA COMPUTADORA </p></FONT COLOR="RED" size="20">
+
+<p>La PC (personal computer) o computadora personal es una de las más accesibles y simples del mercado, a diferencia de una portátil, por ejemplo, cuyos componentes son obviamente más pequeños y requieren más cuidados. Veamos cómo está hecha, qué elementos contiene. 
+Para empezar, conviene distinguir dos nociones: el software, que es la parte lógica o intangible de una computadora, como los sistemas operativos, los programas y las aplicaciones, que es la que hace que funcione lo demás, y el hardware, que es la parte tangible de la PC, aquello que se puede ver y tocar, tanto sus componentes internos —que están dentro del gabinete, la carcasa de metal— como sus dispositivos externos —que se encuentran fuera del gabinete—. Ahora bien, el software y el hardware se complementan, ya que la ausencia de alguno de ellos hace imposible el funcionamiento del ordenador.
+Para el uso de la PC es importante disponer además de un monitor, un teclado y un mouse o ratón. Y en la actualidad, aumentó la necesidad de contar con cámaras, micrófonos, parlantes y auriculares. Estos son dispositivos externos, denominados periféricos externos, porque se conectan a la computadora sin ser parte de ella. 
+Los periféricos se clasifican según el flujo de información, es decir, el tipo de intercambio. Hay entonces periféricos internos y externos, que a su vez pueden ser de entrada, salida o mixtos (según cumplan funciones de entrada, salida o entrada y salida de datos), como se ve en la imagen.</p>
+<center> <img src="25.jpeg" width="%15"></center>
+
+
+
+
+
+
+<tr>
+
+<a href ="file:///C:/Users/HP/Desktop/dise%C3%B1o%20web/dise%C3%B1oweb.html">inicio
+</tr>

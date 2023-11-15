@@ -1,0 +1,40 @@
+<body bgcolor="blue">
+<p><center><FONT COLOR="RED" size="20"> PROGRAMACION </p></center></FONT COLOR="RED" size="20">
+<P><LEFT><FONT COLOR="RED" size="20">DFD</P></LEFT></FONT COLOR="RED" size="20">
+
+<P> Esta guía brinda todo lo que necesitas saber acerca de los diagramas de flujo de datos, incluidas definiciones, historia, símbolos y notaciones. Conocerás los diferentes niveles de un DFD, la diferencia entre un DFD lógico y un DFD físico, y recomendaciones para crear un DFD.  </P>
+
+<table border="10">
+<td> <font color="red"size="20">¿Qué es un diagrama de flujo de datos?</font color ="red"size="20">
+<td>Un diagrama de flujo de datos (DFD) traza el flujo de la información para cualquier proceso o sistema. Emplea símbolos definidos, como rectángulos, círculos y flechas, además de etiquetas de texto breves, para mostrar las entradas y salidas de datos, los puntos de almacenamiento y las rutas entre cada destino. Los diagramas de flujo de datos pueden variar desde simples panoramas de procesos incluso trazados a mano, hasta DFD muy detallados y con múltiples niveles que profundizan progresivamente en cómo se manejan los datos. Se pueden usar para analizar un sistema existente o para modelar uno nuevo. De forma similar a todos los mejores diagramas y gráficos, un DFD puede con frecuencia "decir" visualmente cosas que serían difíciles de explicar en palabras y funcionan para audiencias tanto técnicas como no técnicas, desde desarrolladores hasta directores. Esa es la razón por la que los DFD siguen siendo tan populares después de todos estos años. Aunque funcionan muy bien para software y sistemas de flujo de datos, en la actualidad no se aplican tanto para visualizar software o sistemas interactivos, en tiempo real u orientados a bases de datos.
+<p>El hecho de organizar los contenidos en diferentes ventanas permite que el usuario pueda visualizarlas en simultáneo, ya sea en formato de mosaico, minimizadas o superpuestas. Es decir, la interfaz de las ventanas permite ver y ejecutar varias acciones a la vez, como un procesador de datos (archivo de Word), un reproductor de video o un editor de gráficos, entre muchos otras.
+<center> <img src="5.png" width="%15"></center>
+</table>
+<hr size="10px" color="black">
+
+</hr>
+<table border="10">
+<td><font color="red"size="20"><center> C++ </p></font color="red"size="20"></center>
+<td><font color ="black">C++ es un lenguaje compilado que fue desarrollado en 1980 por Bjarne Stroustroup en los laboratorios At&T como una extensión orientada a objetos del lenguaje C. C++ significaría incremento de C, aprovechando que el lenguaje C tiene el operador ++ con ese nombre.<center> <img src="4.jpeg" width="%25"></center>
+Un programa escrito en un lenguaje imperativo es un conjunto de instrucciones que indican al computador cómo realizar una tarea.
+En un lenguaje imperativo:
+se conoce en cada paso del programa su estado, determinado por el valor que toman las variables utilizadas.
+se altera el estado del programa a través de sentencias.
+La implementación hardware de la mayoría de computadores está diseñada para ejecutar código máquina escrito en forma imperativa:
+las variables son posiciones de memoria,Las sentencias son instrucciones.En este curso nos centraremos principalmente en la parte imperativa del lenguaje C++, que es básicamente la misma que la del lenguaje C.
+<br><center><img src="1.jpeg" width="%25"></center>
+
+<td>Por ello, código fuente escrito en C puede compilarse como C++. Esto fue una virtud en los primeros años, pero a la larga también ha sido una debilidad pues, para garantizar la compatibilidad, ha mantenido algunos de los graves inconvenientes del lenguaje C.
+El lenguaje C fue creado por Dennis Ritchie entre los años 1970-73. D. Ritchie fue cocreador junto a Ken Thompson del sistema operativo UNIX.
+Durante el curso usaremos principalmente C++11, que es la cuarta revisión del Lenguaje de Programación C++ aprobada por la Organización Internacional para la Estandarización (ISO) en 2011.
+La versión estándar más actual es la C++20. Eso no significa que vayamos a estudiar unas características del lenguaje desfasadas. Las novedades que se han ido incorporando en los últimos años respecto a la versión C++11 están enfocadas a programas/programadores de muy alto nivel.Ejemplos de programas escritos en C/C++ son los sistemas operativos Windows, Mac OS X y Linux, el navegador/buscador Google Chrome, Adobe Acrobat, la página de Amazon, Autodesk, Facebook, Microsoft Office, la suite de programas Mozilla, FIFA EA Sports, Fortnite, etc..</CENTER></font color="black">
+<center> <img src="3.png" width="%15"></center>
+
+</table>
+
+
+
+
+<tr>
+
+<td><a href ="file:///C:/Users/HP/Desktop/dise%C3%B1o%20web/dise%C3%B1oweb.html">inicio
